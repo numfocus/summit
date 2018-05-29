@@ -9,7 +9,7 @@ menu:
 - {name: 'Schedule', folder: 'pages', file: 'schedule.html'}
 - {name: 'Venue', folder: 'pages', file: 'venue.html'}
 - {name: 'Committee', folder: 'pages', file: 'committee.html'}
-- {name: 'Registration', folder: 'pages', file: 'register.html'}
+- {name: 'Register', folder: 'pages', file: 'register.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
