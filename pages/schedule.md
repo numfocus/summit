@@ -12,3 +12,15 @@ September 22 - 25
 | Sunday, Sept 23 | Evening Awards Gala |
 | Monday - Tuesday, Sept 24-25 | Project Forum |
 | Monday - Tuesday, Sept 24-25 | Project Sprints |
+
+
+Confirmed Projects Attending:
+
+- Astropy, 
+- Bokeh, 
+- Cantera,
+- nteract, 
+- matplotlib, 
+- Open Journals,
+- rOpenSci, 
+- yt
