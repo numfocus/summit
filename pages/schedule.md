@@ -16,11 +16,9 @@ title: Schedule
 
 ## Welcome Reception
 
-- Friday, Sep 21 - 6:00-8:00pm
-
-The welcome reception will feature heavy hors d'oeuvres and an opportunity to mingle with your fellow project leaders and NumFOCUS directors, advisers, and staff.
-
-The location is T45 Restaurant at the Hyatt Centric Times Square, 135 West 45th Street (10036).
+- Time: Friday, Sep 21 - 6:00-8:00pm
+- Venue: T45 Restaurant at the Hyatt Centric Times Square, 135 West 45th Street (10036).
+- Food: Heavy hors d'oeuvres will be served
 
 ## Sustainability Workshop Schedule
 
@@ -80,9 +78,8 @@ The location is T45 Restaurant at the Hyatt Centric Times Square, 135 West 45th 
 - Dinner at Carmine's Italian Restaurant ( 200 W 44th St, New York, NY 10036 )
 
 | Time | Event |
+|------|-------|
 | 6:00 - 6:30 | Reception with drinks |
 | 6:30 - 7:00 | Dinner start |
-| 7:00 - 8:00 | presentation |
-
-## Forum Schedule
+| 7:00 - 8:00 | Presentation |
 
