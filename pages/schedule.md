@@ -15,7 +15,7 @@ September 22 - 25
 
 
 Confirmed Projects Attending:
-|    |    |
+
 |----|----|
 | Astropy | Open Journals |
 | Bokeh | pandas |
