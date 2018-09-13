@@ -87,6 +87,9 @@ title: Schedule
 
 ## Forum Schedule
 
+### Monday, Sept 24
+
+
 | Time | Central Park East (6th Fl.) 6501a | Central Park West (6th Fl.) 6501b | Radio City (6th Fl.) 6604	|
 |------|-----------------------------------|-----------------------------------|----------------------------|
 | 8:30 - 9:30	| registration & breakfast		| | |		
@@ -103,3 +106,21 @@ title: Schedule
 | 4:15 - 4:45	| break & reflection prep. | | |			
 | 4:45 - 5:30	| "Selected Reflections (3 topics × 15 min ea.)" | | |			 
 | 5:30 - 7:30	| Reception at Terrace Overlooking Times Square	| | |		
+
+### Tuesday, Sept 25
+
+| Time | Central Park East (6th Fl.) 6501a | Central Park West (6th Fl.) 6501b | Radio City (6th Fl.) 6604	|
+|------|-----------------------------------|-----------------------------------|----------------------------|
+| 9:30 - 10:00 | "Welcome & Opening Notes Andy Terrel, Leah Silen" | | |
+| 10:00 - 10:45 |	"Anchor Session: Operating with the Commercial World Panel: Elenita Elinon, Don Fisher, Stefan Karpinski, Travis Oliphant, Andy Terrel Moderator: James Powell"	| | |
+| 10:45 - 11:15 |	Networking Break → By Field (e.g., machine learning, numerical simulations, &c.)	| | |	
+| 11:15 - 12:00	| "Plenary Session: Overview of the ""NumFOCUS Ecosystem"" (9 projects × 5 min ea.)" | | |
+| 12:00 - 12:45	| "Open Session: “Lightning talks” | Open Session | Open Session: Technical Challenges |
+| 12:45 - 1:30 | lunch | | |
+| 1:30 - 2:00	|	FUNDING	TRACK: "Users to Projects" | ECOSYTEM CAPABILITIES: "Users to Projects" | TRAINING AND AWARENESS: "Users to Projects"|
+| 2:00 - 2:30	| Open Session: Funding	| Open Session: Ecosystem Capabilities	| Open Session: Training & Awareness |
+| 2:30 - 2:45	| coffee break | | |
+| 2:45 - 3:15	| FUNDING	TRACK: "Projects to Users"| ECOSYTEM CAPABILITIES: "Projects to Users"| TRAINING AND AWARENESS: ""Projects to Users"|
+| 3:15 - 3:45	| break & reflection prep. | | |	
+| 3:45 - 4:15 |	"Selected Reflections (3 topics × 15 min ea.)" | | |
+| 4:15 - 4:30 |	Closing Notes: Andy Terrel, Leah Silen | | |		
