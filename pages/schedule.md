@@ -35,6 +35,7 @@ Confirmed Projects Attending:
 - Breakout room available in Radio City room
 
 | Time | Session | Chair |
+|------|---------|-------|
 | 8:30 - 9:00 | registration & breakfast | |
 | 9:00 - 10:00 | Welcome & NumFOCUS Report/Update | |
 | 10:00 - 10:15 | short break | |
@@ -51,6 +52,7 @@ Confirmed Projects Attending:
 - Breakout room available in Radio City room
 
 | Time | Session | Chair |
+|------|---------|-------|
 | 8:30 - 9:00 |	registration & breakfast | |
 | 9:00 - 10:30 |	Grant Writing & Management | Matt Turk (yt) and Kelle Cruz (Astropy) | 
 | 10:30 - 10:45	| short break	| |		
