@@ -3,7 +3,7 @@ layout: post
 title: "Announcing NumFOCUS Summit"
 author: "Andy R. Terrel"
 categories: conference
-tags: [conferenct]
+tags: [conferenc3]
 image: rocket-launch-rocket-take-off-nasa-73871.jpeg
 ---
 
