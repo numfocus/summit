@@ -1,3 +1,9 @@
+---
+layout: misc
+title: Discussions
+---
+
+
 # Breakout discussion workflow
 
 ## Plan
