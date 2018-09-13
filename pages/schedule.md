@@ -27,6 +27,7 @@ title: Schedule
 
 - All sessions in Central Park East room
 - Breakout room available in Radio City room
+- Dinner on your own
 
 | Time | Session | Chair |
 |------|---------|-------|
@@ -73,7 +74,7 @@ title: Schedule
 | NumPy | yt |
 
 
-## Evening Awards Gala\
+## Evening Awards Gala
 
 - Dinner at Carmine's Italian Restaurant ( 200 W 44th St, New York, NY 10036 )
 
@@ -83,3 +84,22 @@ title: Schedule
 | 6:30 - 7:00 | Dinner start |
 | 7:00 - 8:00 | Presentation |
 
+
+## Forum Schedule
+
+| Time | Central Park East (6th Fl.) 6501a | Central Park West (6th Fl.) 6501b | Radio City (6th Fl.) 6604	|
+|------|-----------------------------------|-----------------------------------|----------------------------|
+| 8:30 - 9:30	| registration & breakfast		| | |		
+| 9:30 - 10:00 |	"Welcome & Opening Notes Andy Terrel, Leah Silen"				
+| 10:00 - 10:45 |	"Anchor Session: Sustainability and Open Source Dan Katz, Carol Willing, Peter Wang"				
+| 10:45 - 11:15 |	Networking Break → By Project (e.g., pandas, Jupyter, NumPy, &c.)				
+| 11:15 - 12:00 |	"Overview of Project Roadmaps (3 projects × 15 min ea.)" | "Overview of Project Roadmaps (3 projects × 15 min ea.)" |	"Overview of Project Roadmaps (3 projects × 15 min ea.)" |	
+| 12:00 - 12:45 |	Feedback Session |	Feedback Session |	Feedback Session |
+| 12:45 - 1:30	| lunch |  |  |				
+| 1:30 - 2:15 |	CONTRIBUTIONS: "Users to Projects" | ADOPTION: "Users to Projects"  | ROADMAPPING: "Users to Projects"  |
+| 2:15 - 3:00 |	Open Session: Contributions |	Open Session: Adoption	| Open Session: Roadmapping	|
+| 3:00 - 3:30 |	coffee break	| | |			
+| 3:30 - 4:15	| CONTRIBUTIONS: "Projects to Users" | ADOPTION: "Projects to Users" | ROADMAPPING: "Projects to Users" |
+| 4:15 - 4:45	| break & reflection prep. | | |			
+| 4:45 - 5:30	| "Selected Reflections (3 topics × 15 min ea.)" | | |			 
+| 5:30 - 7:30	| Reception at Terrace Overlooking Times Square	| | |		
