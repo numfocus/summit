@@ -15,16 +15,20 @@ September 22 - 25
 
 
 Confirmed Projects Attending:
-
-- Astropy, 
-- Bokeh, 
-- Cantera,
-- nteract, 
-- matplotlib, 
-- Open Journals,
-- rOpenSci, 
-- yt
-
+|    |    |
+|----|----|
+| Astropy | Open Journals |
+| Bokeh | pandas |
+| Cantera | Project Jupyter |
+| conda-forge | PyMC3 |
+| Econ-ARK | PyTables |
+| FEniCS Project | QuantEcon |
+| Julia | rOpenSci |
+| JuMP | Shogun |
+| Jupyter | Stan |
+| Matplotlib | SunPy |
+| nteract | SymPy |
+| NumPy | yt |
 
 ## Sustainability Workshop Schedule
 
