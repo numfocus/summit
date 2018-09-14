@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Contact
+title: Contacts & Admin
 ---
 
 All emails about the summit may be sent to [summit@numfocus.org](mailto://summit@numfocus.org)
