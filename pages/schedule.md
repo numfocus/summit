@@ -57,8 +57,8 @@ title: Schedule
 | 3:30 - 5:00	| Project report-backs & conversation with community stakeholders | |
 
 ## Evening Awards Dinner
-6:00 - 9:00 PM
-- Dinner at Carmine's Italian Restaurant ( 200 W 44th St, New York, NY 10036 )
+6:00 - 9:00 PM Dinner and Awards Presentation
+- Carmine's Italian Restaurant ( 200 W 44th St, New York, NY 10036 )
 
 
 ## Forum Schedule
