@@ -7,12 +7,10 @@ title: Schedule
 
 | Date | Event |
 |------|-------|
-| Friday, Sept 21 | Welcome Reception (location to be announced) |
+| Friday, Sept 21 | Welcome Reception |
 | Saturday - Sunday, Sept 22-23 | Sustainability Workshop |
-| Sunday, Sept 23 | Evening Awards Gala |
+| Sunday, Sept 23 | Evening Awards Dinner |
 | Monday - Tuesday, Sept 24-25 | Project Forum |
-| Monday - Tuesday, Sept 24-25 | Project Sprints |
-
 
 ## Welcome Reception
 
@@ -58,22 +56,6 @@ title: Schedule
 | 3:15 - 3:30 |	short break	| |
 | 3:30 - 5:00	| Project report-backs & conversation with community stakeholders | |
 
-### Confirmed Projects Attending:
-
-| Astropy | Open Journals |
-| Bokeh | pandas |
-| Cantera | Project Jupyter |
-| conda-forge | PyMC3 |
-| Econ-ARK | PyTables |
-| FEniCS Project | QuantEcon |
-| Julia | rOpenSci |
-| JuMP | Shogun |
-| Jupyter | Stan |
-| Matplotlib | SunPy |
-| nteract | SymPy |
-| NumPy | yt |
-
-
 ## Evening Awards Gala
 
 - Dinner at Carmine's Italian Restaurant ( 200 W 44th St, New York, NY 10036 )
@@ -86,6 +68,9 @@ title: Schedule
 
 
 ## Forum Schedule
+
+## Detailed Schedule
+[Link to schedule in Google Spreadsheet format.](https://docs.google.com/spreadsheets/d/1HNT8kcxkfp234OE9aSxo1KXs3u_0arpbVou_3cwVUKY/edit#gid=1777576074)
 
 ### Monday, Sept 24
 
