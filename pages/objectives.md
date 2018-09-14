@@ -25,3 +25,7 @@ The NumFOCUS Summit is a time to bring the community together, discuss major eff
 | Matplotlib | SymPy |
 | nteract | yt |
 | NumPy |  |
+
+## Inaugural NumFOCUS Awards Dinner
+
+As part of building a culture of recognition and mutual respect, we will be recognizing award recipients who have made substantial contributions to our projects, to our ecosystem, and to the open source scientific computing movement. These awards are meant to highlight exceptional technical, community, and organizational efforts supporting our projects.
