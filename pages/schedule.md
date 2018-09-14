@@ -14,7 +14,7 @@ title: Schedule
 
 ## Welcome Reception
 
-- Time: Friday, Sep 21 - 6:00-9:00pm
+- Time: Friday, Sep 21 - 6:00-8:00pm
 - Venue: T45 Restaurant at the Hyatt Centric Times Square, 135 West 45th Street (10036).
 - Food: Heavy hors d'oeuvres will be served
 
@@ -56,15 +56,9 @@ title: Schedule
 | 3:15 - 3:30 |	short break	| |
 | 3:30 - 5:00	| Project report-backs & conversation with community stakeholders | |
 
-## Evening Awards Gala
-
+## Evening Awards Dinner
+6:00 - 9:00 PM
 - Dinner at Carmine's Italian Restaurant ( 200 W 44th St, New York, NY 10036 )
-
-| Time | Event |
-|------|-------|
-| 6:00 - 6:30 | Reception with drinks |
-| 6:30 - 7:00 | Dinner start |
-| 7:00 - 8:00 | Presentation |
 
 
 ## Forum Schedule
