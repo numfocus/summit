@@ -69,7 +69,7 @@ title: Schedule
 
 ## Forum Schedule
 
-## Detailed Schedule
+### Detailed Schedule
 [Link to schedule in Google Spreadsheet format.](https://docs.google.com/spreadsheets/d/1HNT8kcxkfp234OE9aSxo1KXs3u_0arpbVou_3cwVUKY/edit#gid=1777576074)
 
 ### Monday, Sept 24
