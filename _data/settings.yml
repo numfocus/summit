@@ -8,7 +8,7 @@ google-ID: ''
 menu:
 - {name: 'Objectives', folder: 'pages', file: 'objectives.html'}
 - {name: 'Schedule', folder: 'pages', file: 'schedule.html'}
-- {name: 'Venue', folder: 'pages', file: 'venue.html'}
+- {name: 'Venues', folder: 'pages', file: 'venue.html'}
 - {name: 'Committee', folder: 'pages', file: 'committee.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
