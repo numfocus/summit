@@ -17,3 +17,7 @@ We have created a Slack Team specifically for the Summit so folks can easily con
 
 Our schedule has been updated and finalized. See it at [the schedule page](/pages/schedule.html)
 
+## Review Code of Conduct
+
+This event is governed by the [NumFOCUS Code of Conduct](https://numfocus.org/code-of-conduct). Please be sure to review it!
+
