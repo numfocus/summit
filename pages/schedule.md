@@ -14,7 +14,7 @@ title: Schedule
 
 ## Welcome Reception
 
-- Time: Friday, Sep 21 - 6:00-8:00pm
+- Time: Friday, Sep 21 - 6:00-9:00pm
 - Venue: T45 Restaurant at the Hyatt Centric Times Square, 135 West 45th Street (10036).
 - Food: Heavy hors d'oeuvres will be served
 
