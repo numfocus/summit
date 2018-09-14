@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Venue
+title: Venues
 ---
 
 ### Workshops & Forum Venue
