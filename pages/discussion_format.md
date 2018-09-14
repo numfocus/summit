@@ -29,8 +29,8 @@ In your discussion, please address the questions posed to your particular sessio
 Session Questions: (copy/paste your session questions from https://tinyurl.com/ycwuszzy)
 
 1. Describe the problem(s)
-2. What are potential solutions?
-3a. For Users to Projects sessions: How can users contribute to solutions?
+2. What are potential solutions?  
+3a. For Users to Projects sessions: How can users contribute to solutions?  
 3b. For Projects to Users sessions: How can projects contribute to solutions?
 
 ```
