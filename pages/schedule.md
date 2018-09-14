@@ -32,7 +32,7 @@ title: Schedule
 | 8:30 - 9:00 | registration & breakfast | |
 | 9:00 - 10:00 | Welcome & NumFOCUS Report/Update | |
 | 10:00 - 10:15 | short break | |
-| 10:15 - 12:15 | Community Roadmaps Workshop |  Ralf Gommers (NumPy) and Bryan Grainger (Jupyter) |
+| 10:15 - 12:15 | Community Roadmaps Workshop |  Ralf Gommers (NumPy) and Brian Grainger (Jupyter) |
 | 12:15 - 1:15 | lunch | |
 | 1:15 - 3:15 | Organizational Health Check: Governance | Chris Fonnesbeck (PyMC3) |	
 | 3:15 - 3:30 | short break | |
