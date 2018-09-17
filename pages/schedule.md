@@ -43,7 +43,7 @@ title: Schedule
 | 8:30 - 9:00 | registration & breakfast | |
 | 9:00 - 10:00 | Welcome & NumFOCUS Report/Update | |
 | 10:00 - 10:15 | short break | |
-| 10:15 - 12:15 | Community Roadmaps Workshop |  Ralf Gommers (NumPy) and Brian Grainger (Jupyter) |
+| 10:15 - 12:15 | Community Roadmaps Workshop |  Ralf Gommers (NumPy) and Brian Granger (Jupyter) |
 | 12:15 - 1:15 | lunch | |
 | 1:15 - 3:15 | Organizational Health Check: Governance | Chris Fonnesbeck (PyMC3) |	
 | 3:15 - 3:30 | short break | |
@@ -94,7 +94,7 @@ title: Schedule
 | 3:00 - 3:30 |	coffee break	| | |			
 | 3:30 - 4:15	| CONTRIBUTIONS: "Projects to Users" | ADOPTION: "Projects to Users" | ROADMAPPING: "Projects to Users" |
 | 4:15 - 4:45	| break & reflection prep. | | |			
-| 4:45 - 5:30	| "Selected Reflections (3 topics × 15 min ea.)" | | |			 
+| 4:45 - 5:30	| "Reflections (3 topics × 15 min ea.)" | | |			 
 | 5:30 - 7:30	| Reception at Terrace Overlooking Times Square	| | |		
 
 ### Tuesday, Sept 25
@@ -102,7 +102,7 @@ title: Schedule
 | Time | Central Park East (6th Fl.) 6501a | Central Park West (6th Fl.) 6501b | Radio City (6th Fl.) 6604	|
 |------|-----------------------------------|-----------------------------------|----------------------------|
 | 9:30 - 10:00 | "Welcome & Opening Notes Andy Terrel, Leah Silen" | | |
-| 10:00 - 10:45 |	"Anchor Session: Operating with the Commercial World Panel: Elenita Elinon, Don Fisher, Stefan Karpinski, Travis Oliphant, Andy Terrel Moderator: James Powell"	| | |
+| 10:00 - 10:45 |	"Anchor Session: Operating with the Commercial World. Panel: Elenita Elinon, Donald Fischer, Stefan Karpinski, Travis Oliphant, Andy Terrel. Moderator: James Powell"	| | |
 | 10:45 - 11:15 |	Networking Break → By Field (e.g., machine learning, numerical simulations, &c.)	| | |	
 | 11:15 - 12:00	| "Plenary Session: Overview of the ""NumFOCUS Ecosystem"" (9 projects × 5 min ea.)" | | |
 | 12:00 - 12:45	| "Open Session: “Lightning talks” | Open Session | Open Session: Technical Challenges |
@@ -112,5 +112,5 @@ title: Schedule
 | 2:30 - 2:45	| coffee break | | |
 | 2:45 - 3:15	| FUNDING	TRACK: "Projects to Users"| ECOSYTEM CAPABILITIES: "Projects to Users"| TRAINING AND AWARENESS: ""Projects to Users"|
 | 3:15 - 3:45	| break & reflection prep. | | |	
-| 3:45 - 4:15 |	"Selected Reflections (3 topics × 15 min ea.)" | | |
+| 3:45 - 4:15 |	"Reflections (3 topics × 15 min ea.)" | | |
 | 4:15 - 4:30 |	Closing Notes: Andy Terrel, Leah Silen | | |		
