@@ -43,7 +43,7 @@ title: Schedule
 
 - All sessions in Central Park East room
 - Breakout room available in Radio City room
-- Dinner on your own
+- Dinner at the Awards Dinner at Carmine's
 
 | Time | Session | Chair |
 |------|---------|-------|
