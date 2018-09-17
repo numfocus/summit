@@ -25,8 +25,6 @@ Note taker:
 Reporter:  
 Group members:  
 
-In your discussion, please address the questions posed to your particular session. (moderators please make sure that there is enough time to cover all three before the session ends)
-
 Session Questions:
 
 1. Describe the problem(s)
