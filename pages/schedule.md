@@ -12,6 +12,17 @@ title: Schedule
 | Sunday, Sept 23 | Evening Awards Dinner |
 | Monday - Tuesday, Sept 24-25 | Project Forum |
 
+### Meal Schedule
+
+| Date | Breakfast | Lunch | Dinner |
+|------|-------|-------|-------|
+| Friday, 21 Sept | --- | --- | Reception 6-8pm Hyatt Centric |
+| Saturday, 22 Sept | Provided | Provided | On your own - $35 per diem |
+| Sunday, 23 Sept | Provided | Provided | Awards Dinner 6-9pm Carmine’s |
+| Monday, 24 Sept | Provided | Provided | Reception at Microsoft 5:30-7:30pm |
+| Tuesday, 25 Sept | Provided | Provided | --- |
+
+
 ## Welcome Reception
 
 - Time: Friday, Sep 21 - 6:00-8:00pm
