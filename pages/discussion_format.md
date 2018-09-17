@@ -15,7 +15,7 @@ title: Discussions
 	-  The **reporter** can be a third person, or can be the same as the moderator or note taker. 
 		-  Please create a google doc under your account
 		-  Make it editable by anyone with the link
-		-  Paste in the link to your doc into this sheet: https://docs.google.com/spreadsheets/d/18-mBx8QY6gAd6U6H612lEDaZ8158sjxLZgTzxr7pItA/edit#gid=0
+		-  Paste in the link to your doc into this sheet: [https://docs.google.com/spreadsheets/d/18-mBx8QY6gAd6U6H612lEDaZ8158sjxLZgTzxr7pItA/edit#gid=0](https://docs.google.com/spreadsheets/d/18-mBx8QY6gAd6U6H612lEDaZ8158sjxLZgTzxr7pItA/edit#gid=0)
 
 ### Copy & Paste the following information into your doc:
 
