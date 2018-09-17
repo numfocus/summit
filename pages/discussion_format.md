@@ -17,22 +17,22 @@ title: Discussions
 		-  Make it editable by anyone with the link
 		-  Paste in the link to your doc into this sheet: https://goo.gl/Z1jeoJ
     -  Copy & Paste the following information into your doc:
-```
-Discussion topic:
-Moderator:
-Note taker:
-Reporter:
-Group members:
+
+Discussion topic:  
+Moderator:  
+Note taker:  
+Reporter:  
+Group members:  
 
 In your discussion, please address the questions posed to your particular session. (moderators please make sure that there is enough time to cover all three before the session ends)
 
-Session Questions: (copy/paste your session questions from https://tinyurl.com/ycwuszzy)
+Session Questions:
 
 1. Describe the problem(s)
 2. What are potential solutions?  
 3. How could NumFOCUS help?
 
-```
+
 
 ## Reporting out
 
