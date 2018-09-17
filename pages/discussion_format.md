@@ -30,8 +30,7 @@ Session Questions: (copy/paste your session questions from https://tinyurl.com/y
 
 1. Describe the problem(s)
 2. What are potential solutions?  
-3a. For Users to Projects sessions: How can users contribute to solutions?  
-3b. For Projects to Users sessions: How can projects contribute to solutions?
+3. How could NumFOCUS help?
 
 ```
 
