@@ -4,7 +4,7 @@ title: Venues
 ---
 
 ### Workshops & Forum Venue
-Microsoft Technology Center, New York
+Microsoft Conference Center, New York
 11 Times Square, 6th Floor
 (Between 41st & 42nd Streets on 8th Ave.)
 New York, NY, 10036
