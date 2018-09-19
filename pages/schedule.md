@@ -12,6 +12,7 @@ title: Schedule
 | Sunday, Sept 23 | Evening Awards Dinner |
 | Monday - Tuesday, Sept 24-25 | Project Forum |
 
+
 ### Meal Schedule
 
 | Date | Breakfast | Lunch | Dinner |
@@ -26,53 +27,54 @@ title: Schedule
 ## Welcome Reception
 
 - Time: Friday, Sep 21 - 6:00-8:00pm
-- Venue: T45 Restaurant at the Hyatt Centric Times Square, 135 West 45th Street (10036).
+- Venue: T45 Restaurant at the Hyatt Centric Times Square, 135 West 45th Street (10036)
 - Food: Heavy hors d'oeuvres will be served
+
 
 ## Sustainability Workshop Schedule
 
-
 ### Saturday, Sept 22 
 
-- All sessions in Central Park East room
-- Breakout room available in Radio City room
-- Dinner on your own
+- All sessions in Central Park West room
+- Breakout rooms available in Radio City and Central Park East
+- **Dinner on your own**
 
-| Time | Session | Chair |
-|------|---------|-------|
-| 8:30 - 9:00 | registration & breakfast | |
-| 9:00 - 10:00 | Welcome & NumFOCUS Report/Update | |
-| 10:00 - 10:15 | short break | |
-| 10:15 - 12:15 | Community Roadmaps Workshop |  Ralf Gommers (NumPy) and Brian Granger (Jupyter) |
-| 12:15 - 1:15 | lunch | |
-| 1:15 - 3:15 | Organizational Health Check: Governance | Chris Fonnesbeck (PyMC3) |	
-| 3:15 - 3:30 | short break | |
-| 3:30 - 5:00 | Unconference Time	/ Office Hours with NumFOCUS Staff	| |
+| Time | Session |
+|------|---------|
+| 8:30 - 9:00 | registration & breakfast |
+| 9:00 - 10:00 | Welcome & Report from NumFOCUS - Leah Silen & Andy Terrel |
+| 10:00 - 10:15 | short break |
+| 10:15 - 12:15 | Community Roadmaps Workshop - Ralf Gommers (NumPy) & Brian Granger (Jupyter) |
+| 12:15 - 1:15 | lunch |
+| 1:15 - 3:15 | Organizational Health Check: Governance Workshop - Chris Fonnesbeck (PyMC3) |	
+| 3:15 - 3:30 | short break |
+| 3:30 - 5:00 | Unconference Time	/ Office Hours with NumFOCUS Staff	|
 
 
 ## Sunday, Sept 23
 
-- All sessions in Central Park East room
-- Breakout room available in Radio City room
+- All sessions in Central Park West room
+- Breakout rooms available in Radio City and Central Park East
 - Dinner at the Awards Dinner at Carmine's
 
-| Time | Session | Chair |
-|------|---------|-------|
-| 8:30 - 9:00 |	registration & breakfast | |
-| 9:00 - 10:30 |	Grant Writing & Management | Matt Turk (yt) and Kelle Cruz (Astropy) | 
-| 10:30 - 10:45	| short break	| |		
-| 10:45 - 12:15	| Shared Infrastructure Planning | Andy Terrel (NumFOCUS) |
-| 12:15 - 1:15 | lunch | |
-| 1:15 - 3:15	| Organizational Health Check: Code of Conduct and Response Procedures | Kelle Cruz (Astropy) and Ana Ruvalcaba (Jupyter)	|
-| 3:15 - 3:30 |	short break	| |
-| 3:30 - 5:00	| Project report-backs & conversation with community stakeholders | |
+| Time | Session |
+|------|---------|
+| 8:30 - 9:00 |	registration & breakfast / Meet 'n' Greet for NumFOCUS Staff & Board Members |
+| 9:00 - 10:30 |	Grant Writing & Management Workshop - Kelle Cruz (Astropy) | 
+| 10:30 - 10:45	| short break	|
+| 10:45 - 12:15	| Shared Infrastructure Planning - Andy Terrel (NumFOCUS) |
+| 12:15 - 1:15 | lunch |
+| 1:15 - 3:15	| Organizational Health Check: Code of Conduct and Response Procedures - Kelle Cruz (Astropy) and Ana Ruvalcaba (Jupyter)	|
+| 3:15 - 3:30 |	short break	|
+| 3:30 - 5:00	| Project report-backs & conversation with community stakeholders |
 
-## Evening Awards Dinner
+## Sunday Evening Awards Dinner
 6:00 - 9:00 PM Dinner and Awards Presentation
 - Carmine's Italian Restaurant ( 200 W 44th St, New York, NY 10036 )
 
 
-## Forum Schedule
+
+## Project Forum Schedule
 
 ### Detailed Schedule
 [Link to schedule in Google Spreadsheet format.](https://docs.google.com/spreadsheets/d/1HNT8kcxkfp234OE9aSxo1KXs3u_0arpbVou_3cwVUKY/edit#gid=1777576074)
@@ -80,10 +82,10 @@ title: Schedule
 ### Monday, Sept 24
 
 
-| Time | Central Park East (6th Fl.) 6501a | Central Park West (6th Fl.) 6501b | Radio City (6th Fl.) 6604	|
+| Time | Central Park West (6th Fl.) 6501b | Central Park East (6th Fl.) 6501a | Radio City (6th Fl.) 6604	|
 |------|-----------------------------------|-----------------------------------|----------------------------|
 | 8:30 - 9:30	| registration & breakfast		| | |		
-| 9:30 - 10:00 |	"Welcome & Opening Notes Andy Terrel, Leah Silen"				
+| 9:30 - 10:00 |	"Welcome & Opening Notes - Andy Terrel, Leah Silen"				
 | 10:00 - 10:45 |	"Anchor Session: Sustainability and Open Source Dan Katz, Carol Willing, Peter Wang"				
 | 10:45 - 11:15 |	Networking Break → By Project (e.g., pandas, Jupyter, NumPy, &c.)				
 | 11:15 - 12:00 |	"Overview of Project Roadmaps (3 projects × 15 min ea.)" | "Overview of Project Roadmaps (3 projects × 15 min ea.)" |	"Overview of Project Roadmaps (3 projects × 15 min ea.)" |	
@@ -94,23 +96,23 @@ title: Schedule
 | 3:00 - 3:30 |	coffee break	| | |			
 | 3:30 - 4:15	| CONTRIBUTIONS: "Projects to Users" | ADOPTION: "Projects to Users" | ROADMAPPING: "Projects to Users" |
 | 4:15 - 4:45	| break & reflection prep. | | |			
-| 4:45 - 5:30	| "Reflections (3 topics × 15 min ea.)" | | |			 
-| 5:30 - 7:30	| Reception at Terrace Overlooking Times Square	| | |		
+| 4:45 - 5:30	| "Reflections (3 track topics × 15 min ea.)" | | |			 
+| 5:30 - 7:30	| Reception at Terrace Overlooking Times Square - on 7th floor	| | |		
 
 ### Tuesday, Sept 25
 
-| Time | Central Park East (6th Fl.) 6501a | Central Park West (6th Fl.) 6501b | Radio City (6th Fl.) 6604	|
+| Time | Central Park West (6th Fl.) 6501b | Central Park East (6th Fl.) 6501a | Radio City (6th Fl.) 6604	|
 |------|-----------------------------------|-----------------------------------|----------------------------|
-| 9:30 - 10:00 | "Welcome & Opening Notes Andy Terrel, Leah Silen" | | |
+| 9:30 - 10:00 | "Welcome & Opening Notes - Andy Terrel, Leah Silen" | | |
 | 10:00 - 10:45 |	"Anchor Session: Operating with the Commercial World. Panel: Elenita Elinon, Donald Fischer, Stefan Karpinski, Travis Oliphant, Andy Terrel. Moderator: James Powell"	| | |
 | 10:45 - 11:15 |	Networking Break → By Field (e.g., machine learning, numerical simulations, &c.)	| | |	
-| 11:15 - 12:00	| "Plenary Session: Overview of the ""NumFOCUS Ecosystem"" (9 projects × 5 min ea.)" | | |
-| 12:00 - 12:45	| "Open Session: “Lightning talks” | Open Session | Open Session: Technical Challenges |
+| 11:15 - 12:00	| "Plenary Session: Overview of the "NumFOCUS Ecosystem" (9 projects × 5 min ea.)" | | |
+| 12:00 - 12:45	| Open Session | Open Session | Open Session |
 | 12:45 - 1:30 | lunch | | |
 | 1:30 - 2:00	|	FUNDING	TRACK: "Users to Projects" | ECOSYTEM CAPABILITIES: "Users to Projects" | TRAINING AND AWARENESS: "Users to Projects"|
 | 2:00 - 2:30	| Open Session: Funding	| Open Session: Ecosystem Capabilities	| Open Session: Training & Awareness |
 | 2:30 - 2:45	| coffee break | | |
-| 2:45 - 3:15	| FUNDING	TRACK: "Projects to Users"| ECOSYTEM CAPABILITIES: "Projects to Users"| TRAINING AND AWARENESS: ""Projects to Users"|
+| 2:45 - 3:15	| FUNDING	TRACK: "Projects to Users"| ECOSYTEM CAPABILITIES: "Projects to Users"| TRAINING AND AWARENESS: "Projects to Users"|
 | 3:15 - 3:45	| break & reflection prep. | | |	
-| 3:45 - 4:15 |	"Reflections (3 topics × 15 min ea.)" | | |
+| 3:45 - 4:15 |	"Reflections (3 track topics × 15 min ea.)" | | |
 | 4:15 - 4:30 |	Closing Notes: Andy Terrel, Leah Silen | | |		
