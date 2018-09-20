@@ -13,3 +13,9 @@ We have created a Slack Team specifically for the Summit so folks can easily con
 
 Please submit your receipts and payment details through [Rocket](https://numfocus.org/rocket/). This is our new online portal for handling all reimbursements and project funding requests.
 
+## Hotel Concessions for All Summit Guests staying at the Hyatt Centric:
+- 1 Comp drink voucher per room at T45
+- Comp WIFI in sleeping room
+- All rooms will be High Floor Rooms
+- Comp access to the Fitness Center
+- 1 Comp bottle of water in the guest rooms replenished daily
