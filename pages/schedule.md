@@ -104,7 +104,7 @@ title: Schedule
 | Time | Central Park West (6th Fl.) 6501b | Central Park East (6th Fl.) 6501a | Radio City (6th Fl.) 6604	|
 |------|-----------------------------------|-----------------------------------|----------------------------|
 | 9:30 - 10:00 | "Welcome & Opening Notes - Andy Terrel, Leah Silen" | | |
-| 10:00 - 10:45 |	"Anchor Session: Operating with the Commercial World. Panel: Elenita Elinon, Donald Fischer, Stefan Karpinski, Travis Oliphant, Andy Terrel. Moderator: James Powell"	| | |
+| 10:00 - 10:45 |	"Anchor Session: Operating with the Commercial World. Panel: Elenita Elinon, Donald Fischer, Stefan Karpinski, Travis Oliphant. Moderator: Andy Terrel"	| | |
 | 10:45 - 11:15 |	Networking Break → By Field (e.g., machine learning, numerical simulations, &c.)	| | |	
 | 11:15 - 12:00	| "Plenary Session: Overview of the "NumFOCUS Ecosystem" (9 projects × 5 min ea.)" | | |
 | 12:00 - 12:45	| Open Session | Open Session | Open Session |
