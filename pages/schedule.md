@@ -39,6 +39,10 @@ title: Schedule
 - Breakout rooms available in Radio City and Central Park East
 - **Dinner on your own**
 
+- [Discussion Format](/pages/discussion_format.html)
+- [Session discussion spreadsheet](https://docs.google.com/spreadsheets/d/1eWCCVDTyo9rApX4ofeaZyL07pSS-jzYBrW3fvVIMiy0/edit#gid=0)
+
+
 | Time | Session |
 |------|---------|
 | 8:30 - 9:00 | registration & breakfast |
@@ -56,6 +60,9 @@ title: Schedule
 - All sessions in Central Park West room
 - Breakout rooms available in Radio City and Central Park East
 - Dinner at the Awards Dinner at Carmine's
+
+- [Discussion Format](/pages/discussion_format.html)
+- [Session discussion spreadsheet](https://docs.google.com/spreadsheets/d/1eWCCVDTyo9rApX4ofeaZyL07pSS-jzYBrW3fvVIMiy0/edit#gid=0)
 
 | Time | Session |
 |------|---------|
