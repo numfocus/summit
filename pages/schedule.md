@@ -79,6 +79,9 @@ title: Schedule
 ### Detailed Schedule
 [Link to schedule in Google Spreadsheet format.](https://docs.google.com/spreadsheets/d/1HNT8kcxkfp234OE9aSxo1KXs3u_0arpbVou_3cwVUKY/edit#gid=1777576074)
 
+- [Discussion Format](/pages/discussion_format.html)
+- [Discussion Spreadsheets](https://docs.google.com/spreadsheets/d/1uXnBFoJ6YlAUjaedn9aajlqKJBawU3_t7nUvx3iQx_8/edit#gid=0)
+
 ### Monday, Sept 24
 
 
@@ -91,10 +94,10 @@ title: Schedule
 | 11:15 - 12:00 |	"Overview of Project Roadmaps (3 projects × 15 min ea.)" | "Overview of Project Roadmaps (3 projects × 15 min ea.)" |	"Overview of Project Roadmaps (3 projects × 15 min ea.)" |	
 | 12:00 - 12:45 |	Feedback Session |	Feedback Session |	Feedback Session |
 | 12:45 - 1:30	| lunch |  |  |				
-| 1:30 - 2:15 |	CONTRIBUTIONS: "Users to Projects" | ADOPTION: "Users to Projects"  | ROADMAPPING: "Users to Projects"  |
+| 1:30 - 2:15 |	[CONTRIBUTIONS: "Users to Projects"](https://docs.google.com/document/d/1IGxECw27C_Dznx5F8_LQq-HwfSbpuNvHl7u9ytbAGS4/edit) | [ADOPTION: "Users to Projects"](https://docs.google.com/document/d/1rRVHIWEyuN9TPSSDGlAP0q_-NNiKViczIxSYBSGgEW8/edit)  | [ROADMAPPING: "Users to Projects"](https://docs.google.com/document/d/1UufbIavFrQG2CNmz0eUZN1TUOd4_eMfNLK1aIMRXQ_4/edit)  |
 | 2:15 - 3:00 |	Open Session: Contributions |	Open Session: Adoption	| Open Session: Roadmapping	|
 | 3:00 - 3:30 |	coffee break	| | |			
-| 3:30 - 4:15	| CONTRIBUTIONS: "Projects to Users" | ADOPTION: "Projects to Users" | ROADMAPPING: "Projects to Users" |
+| 3:30 - 4:15	| [CONTRIBUTIONS: "Projects to Users"](https://docs.google.com/document/d/1L9-lWah0xW2NwQpOZKRT_2ofu8ihB1qVxv4cJ7B0iag/edit) | [ADOPTION: "Projects to Users"](https://docs.google.com/document/d/1Yu3Vo8Iu9Cj3c4HJt0hA4HzQmU79LT271cpV_Q419eI/edit) | [ROADMAPPING: "Projects to Users"](https://docs.google.com/document/d/1k2xYRejx_oMFzTke-ZJu_Ad0e1sl6HqsnWREhiPJMYs/edit) |
 | 4:15 - 4:45	| break & reflection prep. | | |			
 | 4:45 - 5:30	| "Reflections (3 track topics × 15 min ea.)" | | |			 
 | 5:30 - 7:30	| Reception at Terrace Overlooking Times Square - on 7th floor	| | |		
@@ -109,10 +112,10 @@ title: Schedule
 | 11:15 - 12:00	| "Plenary Session: Overview of the "NumFOCUS Ecosystem" (9 projects × 5 min ea.)" | | |
 | 12:00 - 12:45	| Open Session | Open Session | Open Session |
 | 12:45 - 1:30 | lunch | | |
-| 1:30 - 2:00	|	FUNDING	TRACK: "Users to Projects" | ECOSYTEM CAPABILITIES: "Users to Projects" | TRAINING AND AWARENESS: "Users to Projects"|
+| 1:30 - 2:00	|	[FUNDING	TRACK: "Users to Projects"](https://docs.google.com/document/d/1-TCqX1386vTAZrI_qBF1JvbxY-CjAdHAXuF2lxvipTQ/edit) | [ECOSYTEM CAPABILITIES: "Users to Projects"](https://docs.google.com/document/d/1KjwWhimY4XoRZbVoWUCTX5nQKbMU8XA29jn-ZExZdsI/edit) | [TRAINING AND AWARENESS: "Users to Projects"](https://docs.google.com/document/d/1Ron7qZQAVFPLsUCUSzkndwB5UtTkj-WXpSrdIQsvZbY/edit)|
 | 2:00 - 2:30	| Open Session: Funding	| Open Session: Ecosystem Capabilities	| Open Session: Training & Awareness |
 | 2:30 - 2:45	| coffee break | | |
-| 2:45 - 3:15	| FUNDING	TRACK: "Projects to Users"| ECOSYTEM CAPABILITIES: "Projects to Users"| TRAINING AND AWARENESS: "Projects to Users"|
+| 2:45 - 3:15	| [FUNDING	TRACK: "Projects to Users"](https://docs.google.com/document/d/1_gH1sQbtyn0LLQ21gtRqo5gULhP4JJCynhLQiQN11-g/edit)| [ECOSYTEM CAPABILITIES: "Projects to Users"](https://docs.google.com/document/d/1TQiTzJdOVGBBfeIDf-eEl7Rtf_jvbDvKYVrjg6iQSeA/edit)| [TRAINING AND AWARENESS: "Projects to Users"](https://docs.google.com/document/d/1z6JWOnwhsJXVOzbLsdzO98nXHt-eGU-zsQ4pjeFXhYY/edit)|
 | 3:15 - 3:45	| break & reflection prep. | | |	
 | 3:45 - 4:15 |	"Reflections (3 track topics × 15 min ea.)" | | |
 | 4:15 - 4:30 |	Closing Notes: Andy Terrel, Leah Silen | | |		
