@@ -8,31 +8,17 @@ title: Discussions
 
 ## Plan
 
-- Please break into small groups of no more than 8 people. If you have more than 8 people, break into multiple groups that independently discuss the topic. 
-- Once you have a group please designate a **moderator**, a **note taker**, and a **reporter**.
-	- The **moderator** should make sure that everyone has a chance to speak and no one person dominates the discussion. Also please pay attention to the [code of conduct](https://www.numfocus.org/code-of-conduct).
-	-  The **note takers** should take notes in a Google doc with help from everyone in the group.
-	-  The **reporter** can be a third person, or can be the same as the moderator or note taker. 
-		-  Please create a google doc under your account
-		-  Make it editable by anyone with the link
-		-  Paste in the link to your doc into this sheet: [https://docs.google.com/spreadsheets/d/1eWCCVDTyo9rApX4ofeaZyL07pSS-jzYBrW3fvVIMiy0/edit#gid=0](https://docs.google.com/spreadsheets/d/1eWCCVDTyo9rApX4ofeaZyL07pSS-jzYBrW3fvVIMiy0/edit#gid=0)
+Please break into small groups of no more than 8 people. If you have more than 8 people, break into multiple groups that independently discuss the topic. (Make sure you have both users and project leaders in your group!)  
 
-### Copy & Paste the following information into your doc:
+### Open the Google Doc for your discussion track from the spreadsheet [here](https://docs.google.com/spreadsheets/d/1uXnBFoJ6YlAUjaedn9aajlqKJBawU3_t7nUvx3iQx_8/edit#gid=0).  
 
-Discussion topic:  
-Moderator:  
-Note taker:  
-Reporter:  
-Group members:  
+Once you have a group please designate a **moderator**, a **note taker**, and a **reporter**.  
+	- The **moderator** should make sure that everyone has a chance to speak and no one person dominates the discussion. Also please pay attention to the [code of conduct](https://www.numfocus.org/code-of-conduct).  
+	-  The **note takers** should take notes in a Google doc with help from everyone in the group.  
+	-  The **reporter** can be a third person, or can be the same as the moderator or note taker.  The reporter will summarize the discussion during the "reflections" portion of the schedule.  
 
-Session Questions:
-
-1. Describe the problem(s)
-2. What are potential solutions?  
-3. How could NumFOCUS help?
-
-
+Fill in the names of your group members on the doc, plus the moderator, note taker, and reporter.  
 
 ## Reporting out
 
-- **Reporters** should be prepared to summarize the main points of the group discussion, including the three topics, after the breakout (5 minutes/group)
+- **Reporters** should be prepared to summarize the main points of the group discussion during the "reflections" session at the end of the day. There is prep time set aside so that you can prepare your remarks.
