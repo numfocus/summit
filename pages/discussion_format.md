@@ -13,7 +13,7 @@ Once you have a group please designate a **moderator**, a **note taker**, and a 
 
 - The **moderator** should make sure that everyone has a chance to speak and no one person dominates the discussion. Also please pay attention to the [code of conduct](https://www.numfocus.org/code-of-conduct).  
 	
--  The **note takers** should take notes in a Google doc with help from everyone in the group.  
+-  The **note taker** should take notes in a Google doc with help from everyone in the group.  
 	
 -  The **reporter** can be a third person, or can be the same as the moderator or note taker.  The reporter will summarize the discussion during the "reflections" portion of the schedule.  
 
